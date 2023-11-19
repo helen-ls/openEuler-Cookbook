@@ -7,12 +7,12 @@ If you have a useful recipe or solution for openEuler, please consider contribut
 - Explain the reasoning or principles behind why the solution works.
 To contribute, please open a pull request with your recipe added to the appropriate section below.
 ## Contents
-Welcome to the openEuler Cookbook!
-Getting Started
-Ready, Set, openEuler!
-Shopping for Ingredients – Getting Started
-Recipes
-Add your recipe here!
+- Welcome to the openEuler Cookbook!
+- Getting Started
+- Ready, Set, openEuler!
+- Shopping for Ingredients – Getting Started
+- Recipes
+- * Add your recipe here!
 
 ## License
 This cookbook is licensed under the MIT License.
