@@ -1,4 +1,4 @@
-# openEuler Cookbook初稿1.0
+# openEuler Cookbook 1.0
 
 👩‍🍳openEuler 101 - A Cookbook for Hungry Developers
 
