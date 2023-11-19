@@ -26,7 +26,7 @@ The community also employs structured mechanisms and processes to function smoot
 
 ![](.gitbook/assets/1.png) Before we start cooking, let's make sure we have all the ingredients. Here's what you need to do to get started:
 
-### 🥕Step 1: Shopping for Ingredients – Getting Started
+### 🥕Shopping for Ingredients – Getting Started
 
 Head over to the [openEuler website ](https://openeuler.org/)where you can find the download link, access various developer resources, experience innovative openEuler projects, connect with other open source enthusiasts, and more. It's the base camp, the headquarters, the mothership of openEuler. It's where you can find everything you need to start your open source adventure.
 
@@ -34,21 +34,9 @@ Head over to the [openEuler website ](https://openeuler.org/)where you can find 
 
 Like choosing between unsalted or salted butter, you can pick versions optimized for different architectures at [https://www.openeuler.org/zh/download/archive](https://www.openeuler.org/zh/download/archive). Grab the one that suits your needs and follow the installation instructions based on your hardware platform.
 
-### 🥘Step 2: Preheating the Oven – Signing the CLA
-
-Although openEuler is an open source recipe, there are still important prep steps before you can start cooking! Contributor License Agreement (CLA) stipulates the terms of copyright, license, and liability that you need to abide by when submitting code or documents to the community as a contributor. Signing the CLA agreement can protect your intellectual property rights, as well as the interests and security of the community.
-
-Signing the CLA agreement is as easy as pie. You only need to click **Developers** on the homepage, and then in the lower left corner of the drop-down box, find **CLA**, or directly visit [https://clasign.osinfra.cn/sign/gitee\_openeuler-1611298811283968340](https://clasign.osinfra.cn/sign/gitee\_openeuler-1611298811283968340).
-
-![](.gitbook/assets/3.png)
-
-You can choose to sign the individual CLA or the employee CLA according to your identity, and then follow the prompts to complete the signing process. After signing, you can officially become a member of openEuler community!
-
-Now, you are all set to take the first bite of openEuler! Ready to explore more of the openEuler community and participate in various activities.
-
 ### 🥗Recipes
 
-Our kitchen is prepped with CLA signed and it's time to start cooking up some amazing projects. In this chapter, we'll explore different recipes for rustling up some open source creations.
+Now, you are ready to take the first bite of openEuler! Let's start cooking up some amazing projects. In this chapter, we'll explore different recipes for rustling up some open source creations.
 
 ### 🤗Recipe 1: Joining a SIG
 
@@ -64,7 +52,41 @@ Better than just reporting bugs, offer fixes by submitting patches! If you have 
 
 ### 👜 Recipe 4: Contributing software packages
 
-Another way to participate is by contributing software packages for openEuler. If you find that openEuler is missing any software package, you can contribute it to the openEuler community. First, you need to understand what is a Linux software package, and how to make a software package. Linux software package is a way of packaging software's source code, compilation scripts, configuration files, dependency relationships, and other information into a file, which is convenient for users to install and manage. Contributing software packages enhances openEuler functionalities, making openEuler a software ecosystem with anything you need. You can also get recognition and appreciation from the community, and become a valuable contributor to openEuler. So, don't hesitate, contribute your software packages and let your work shine!
+Another way to participate is by contributing software packages for openEuler. If you find that openEuler is missing any software package, you can contribute it to the openEuler community. First, you need to understand what is a Linux software package, and how to make a software package. Linux software package is a way of packaging software's source code, compilation scripts, configuration files, dependency relationships, and other information into a file, which is convenient for users to install and manage. 
+Follow the following steps to add your flavorful contribution to the openEuler community:
+1. Go to the [community repository](https://gitee.com/openeuler/community) and click **Fork**.
+2. Clone the forked community repository to local.
+3. Modify the community repository:
+* Identify the SIG to which the software package belongs.
+* Modify the contents under the SIG folder, such as the project list.
+* Modify the **sig-info.yaml** under the relevant SIG folder, adding the new software package in the format "- src-openeuler/zip" to the corresponding SIG's list. Taking ZIP as an example, modify **sig/Base-service/sig-info.yaml**:
+repositories:
+- repo:
+  - openeuler/openEuler-rpm-config
+  - src-openeuler/abseil-cpp
+  - src-openeuler/acl
+  - src-openeuler/acpica-tools
+  - src-openeuler/adcli
+  - src-openeuler/aide
+  - src-openeuler/airline
+ 
+...
+  - src-openeuler/jansson
+  - src-openeuler/apr
+  - src-openeuler/python-lxml
+  - src-openeuler/zip
+4. Create a new repository in **sig/{SIG directory}/src-openeuler/first letter of the software name** (For projects maintained by the openEuler community: openeuler directory; for packages from other communities: src-openeuler directory):
+name: pkgname
+description: about pkgname
+upstream: https://somepkg.org/
+branches:
+- name: master
+  type: protected
+type: public
+* Your task is to modify the files and then submit a PR. Explain clearly in the commit message why you are adding such a package or creating such a repository. The better your commit message, the easier it is to pass the review.
+* Once the PR is merged, a repository with the same name will be created on Gitee. You can check the address at src-openeuler.
+Contributing software packages enhances openEuler functionalities, making openEuler a software ecosystem with anything you need. You can also get recognition and appreciation from the community, and become a valuable contributor to openEuler. So, don't hesitate, contribute your software packages and let your work shine!
+
 
 ### 🎮Recipe 5: Developing new software
 
@@ -80,6 +102,16 @@ If you're feeling adventurous, it's time to unleash your creativity and develop 
 5. Celebrate your success! You have successfully completed your open source project in the openEuler community, and become a part of openEuler distros.
 
 Developing new software is not only a way to innovate openEuler, create something unique and original, and express your vision and passion. It is also a way to challenge yourself, learn new things, and have fun.
+
+### 📝Remember to stirring in CLA seasoning!
+
+Although openEuler is an open source recipe, there are still important prep steps before you can start cooking! Contributor License Agreement (CLA) stipulates the terms of copyright, license, and liability that you need to abide by when submitting code or documents to the community as a contributor. Signing the CLA agreement can protect your intellectual property rights, as well as the interests and security of the community.
+
+Signing the CLA agreement is as easy as pie. You only need to click **Developers** on the homepage, and then in the lower left corner of the drop-down box, find **CLA**, or directly visit [https://clasign.osinfra.cn/sign/gitee\_openeuler-1611298811283968340](https://clasign.osinfra.cn/sign/gitee\_openeuler-1611298811283968340).
+
+![](.gitbook/assets/3.png)
+
+You can choose to sign the individual CLA or the employee CLA according to your identity, and then follow the prompts to complete the signing process. After signing, you can officially become a member of openEuler community!
 
 ### 🎉More recipes on the way ...
 
