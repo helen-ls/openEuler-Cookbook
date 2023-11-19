@@ -75,9 +75,16 @@ Another way to participate is by contributing software packages for openEuler. I
   * src-openeuler/python-lxml
   * src-openeuler/zip
 
-4. Create a new repository in **sig/{SIG directory}/src-openeuler/first letter of the software name** (For projects maintained by the openEuler community: openeuler directory; for packages from other communities: src-openeuler directory): name: pkgname description: about pkgname upstream: https://somepkg.org/ branches:
-
-* name: master type: protected type: public
+4. Create a new repository in **sig/{SIG directory}/src-openeuler/first letter of the software name** (For projects maintained by the openEuler community: openeuler directory; for packages from other communities: src-openeuler directory):
+ ```YAML
+ name: pkgname
+ description: about pkgname
+ upstream: https://somepkg.org/
+ branches:
+ - name: master
+   type: protected
+ type: public
+ ```
 * Your task is to modify the files and then submit a PR. Explain clearly in the commit message why you are adding such a package or creating such a repository. The better your commit message, the easier it is to pass the review.
 * Once the PR is merged, a repository with the same name will be created on Gitee. You can check the address at src-openeuler. Contributing software packages enhances openEuler functionalities, making openEuler a software ecosystem with anything you need. You can also get recognition and appreciation from the community, and become a valuable contributor to openEuler. So, don't hesitate, contribute your software packages and let your work shine!
 
