@@ -103,7 +103,7 @@ If you're feeling adventurous, it's time to unleash your creativity and develop 
 
 Developing new software is not only a way to innovate openEuler, create something unique and original, and express your vision and passion. It is also a way to challenge yourself, learn new things, and have fun.
 
-### 📝Remember to stirring in CLA seasoning!
+### 📝Remember to stir in CLA seasoning!
 
 Although openEuler is an open source recipe, there are still important prep steps before you can start cooking! Contributor License Agreement (CLA) stipulates the terms of copyright, license, and liability that you need to abide by when submitting code or documents to the community as a contributor. Signing the CLA agreement can protect your intellectual property rights, as well as the interests and security of the community.
 
