@@ -1,6 +1,6 @@
 ---
 description: Read me before you start the cookbook~
-cover: .gitbook/assets/WechatIMG7447.jpg
+cover: .gitbook/assets/WechatIMG785.jpg
 coverY: 0
 layout:
   cover:
