@@ -10,4 +10,4 @@ Head over to the [openEuler website ](https://openeuler.org/)where you can find 
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Official website</p></figcaption></figure>
 
-Like choosing between unsalted or salted butter, you can pick versions optimized for different architectures at [https://www.openeuler.org/zh/download/archive](https://www.openeuler.org/zh/download/archive). Grab the one that suits your needs and follow the installation instructions based on your hardware platform.
+Like choosing between unsalted or salted butter, you can pick versions optimized for different architectures at [the download page](https://www.openeuler.org/en/download/archive). Grab the one that suits your needs and follow the installation instructions based on your hardware platform.
