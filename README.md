@@ -34,9 +34,14 @@ If you have a useful recipe or solution for openEuler, please consider contribut
 
 * Welcome to the openEuler Cookbook!
 * Ready, Set, openEuler!
-* Shopping for Ingredients – Getting Started
 * Recipes
-* _[Add your recipe here!](https://github.com/helen-ls/openEuler-Cookbook/pulls)_
+* &nbsp;&nbsp;&nbsp;&nbsp;Recipe 1: Joining a SIG
+* &nbsp;&nbsp;&nbsp;&nbsp;Recipe 2: Submitting issues
+* &nbsp;&nbsp;&nbsp;&nbsp;Recipe 3: Submitting PRs
+* &nbsp;&nbsp;&nbsp;&nbsp;Recipe 4: Contributing software packages
+* &nbsp;&nbsp;&nbsp;&nbsp;Recipe 5: Developing new software
+* More recipes on the way ...
+* Next up, your turn! _[Add your recipe here!](https://github.com/helen-ls/openEuler-Cookbook/pulls)_
 
 ## License
 
