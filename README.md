@@ -36,11 +36,11 @@ If you have a useful recipe or solution for openEuler, please consider contribut
 * Ready, Set, openEuler!
 * Shopping for Ingredients – Getting Started
 * Recipes
-* _Add your recipe here!_
+* _[Add your recipe here!](https://github.com/helen-ls/openEuler-Cookbook/pulls)_
 
 ## License
 
-This cookbook is licensed under the MIT License.
+This cookbook is licensed under the [MIT License](https://opensource.org/license/mit/).
 
 ## Disclaimer
 
