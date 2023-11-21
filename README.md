@@ -24,11 +24,11 @@ This is a community cookbook for various tips, tricks, and recipes when using th
 
 ## Contributing
 
-If you have a useful recipe or solution for openEuler, please consider contributing it to this cookbook! Recipes should follow this basic structure:
+If you have a useful recipe or solution for openEuler, please consider contributing it to this cookbook! Recipes should follow the basic structure:
 
 * Describe the problem you are trying to solve.
 * Provide step-by-step instructions for the solution, with code examples where applicable.
-* Explain the reasoning or principles behind why the solution works. To contribute, please open a pull request with your recipe added to the appropriate section below.
+* Explain the reasoning or principles behind the solution. To contribute, please submit a pull request with your recipe added to the appropriate section below.
 
 ## Contents
 
