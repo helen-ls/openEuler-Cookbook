@@ -2,7 +2,7 @@
 
 Hi curious developer, hungry to cook up some code masterpieces? This cookbook serves as your guide to whipping up creative solutions with openEuler.
 
-What is openEuler, you ask? Simply put, it's an open source OS tailored for digital infrastructure. Just like Android powers your mobile apps and games, openEuler runs underneath servers and digital systems, serving as the core foundation. Think of openEuler as the core ingredient that adds flavor to your applications.
+What is openEuler, you ask? Simply put, think of openEuler as the core ingredient that adds flavor to your applications, it's an open source OS tailored for digital infrastructure. Just like Android powers your mobile apps and games, openEuler runs underneath servers and digital systems, serving as the core foundation. 
 
 Born in 2019, openEuler quickly cultivated an active community with thousands of developers collaborating and innovating together. What makes this 4-year-old OS platform so appetizing? Let's have a taste...
 
@@ -12,6 +12,6 @@ As a next-gen platform, openEuler offers both standard Linux and real-time kerne
 
 * **A Nurturing Open Source Community**
 
-The openEuler community itself is a thriving open source ecosystem. Developers from leading companies, academia, and research institutes come together here to collaborate and share knowledge.
+The openEuler community itself is a thriving open source ecosystem. Developers from different companies, academia, and research institutes come together to collaborate and share knowledge.
 
-The community also employs structured mechanisms and processes to function smoothly. In openEuler, every industry peer work together on standards, and research findings easily transfer into industry. openEuler nurtures an environment for developers to learn and grow.
+The community also employs structured mechanisms and processes to function smoothly. In openEuler, all industry peers work together to develop applications that can be adopted in real practices. openEuler nurtures an environment for developers to learn and grow.
