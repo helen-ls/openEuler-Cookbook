@@ -1,7 +1,3 @@
----
-description: Hey, this is optional, remember, we're not pushing u~
----
-
 # 📝 Remember to stir in CLA seasoning!
 
 Although openEuler is an open source recipe, there are still important prep steps before you can start cooking! Contributor License Agreement (CLA) stipulates the terms of copyright, license, and liability that you need to abide by when submitting code or documents to the community as a contributor. Signing the CLA agreement can protect your intellectual property rights, as well as the interests and security of the community.

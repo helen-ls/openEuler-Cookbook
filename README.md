@@ -35,13 +35,13 @@ If you have a useful recipe or solution for openEuler, please consider contribut
 * Welcome to the openEuler Cookbook!
 * Ready, Set, openEuler!
 * Recipes
-* &nbsp;&nbsp;&nbsp;&nbsp;Recipe 1: Joining a SIG
-* &nbsp;&nbsp;&nbsp;&nbsp;Recipe 2: Submitting issues
-* &nbsp;&nbsp;&nbsp;&nbsp;Recipe 3: Submitting PRs
-* &nbsp;&nbsp;&nbsp;&nbsp;Recipe 4: Contributing software packages
-* &nbsp;&nbsp;&nbsp;&nbsp;Recipe 5: Developing new software
+* &#x20;   Recipe 1: Joining a SIG
+* &#x20;   Recipe 2: Submitting issues
+* &#x20;   Recipe 3: Submitting PRs
+* &#x20;   Recipe 4: Contributing software packages
+* &#x20;   Recipe 5: Developing new software
 * More recipes on the way ...
-* Next up, your turn! _[Add your recipe here!](https://github.com/helen-ls/openEuler-Cookbook/pulls)_
+* Next up, your turn! [_Add your recipe here!_](https://github.com/helen-ls/openEuler-Cookbook/pulls)
 
 ## License
 
