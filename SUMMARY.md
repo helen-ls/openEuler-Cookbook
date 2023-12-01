@@ -1,7 +1,7 @@
 # Table of contents
 
 * [👋 README](README.md)
-* [👀 Welcome to the openEuler Cookbook!](openeuler-cookbook-chu-gao-1.0.md)
+* [👀 Welcome to the openEuler Cookbook!](welcome-to-the-openEuler-cookbook.md)
 * [🍳 Ready, Set, openEuler!](ready-set-openeuler.md)
 * [🍲 Recipes](recipes.md)
 * [🥰 Recipe 1: Joining a SIG](recipe-1-joining-a-sig.md)
