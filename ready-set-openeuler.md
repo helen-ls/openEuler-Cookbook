@@ -2,7 +2,7 @@
 
 Before we start cooking, let's make sure we have all the ingredients. Here's what you need to do to get started:
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/0.jpeg" alt=""><figcaption></figcaption></figure>
 
 ### 🥕Shopping for Ingredients – Getting Started
 
